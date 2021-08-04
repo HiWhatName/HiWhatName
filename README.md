@@ -9,7 +9,7 @@
 ### Social Media
 
 [<img align="left" alt="Discord" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/Discord-Logo-Color.svg?raw=true" />][discord]
-[<img align="left" alt="Youtube" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/YouTube-Logo.wine.svg?raw=true" />][youtube]
+[<img align="left" alt="Youtube" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/YouTube-Logo.svg?raw=true" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/Twitterl-bird-logo-2012.svg?raw=true" />][twitter]
 [<img align="left" alt="Github" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/Github-logo.svg?raw=true" />][github]
 
