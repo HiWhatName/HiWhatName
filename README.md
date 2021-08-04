@@ -1,8 +1,8 @@
-### Hi, I'm just some random guy trying to code stuff on the internet [profile][website]
+## Hi, I'm just some random guy trying to code stuff on the internet 🤔
 
-## What i'm looking forward to:
+### What i'm looking forward to:
 
-- Collaborating in team environments 
+- Collaborating in team environments ✨
 
 - Comming soon™ 
 
