@@ -6,7 +6,11 @@
 
 - Comming soon™ 
 
-### Social Media
+- Comming soon™ 
+
+<br />
+
+### My Social Media available:
 
 [<img align="left" alt="Discord" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/Discord-Logo-Color.svg?raw=true" />][discord]
 [<img align="left" alt="Youtube" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/YouTube-Logo.svg?raw=true" />][youtube]
