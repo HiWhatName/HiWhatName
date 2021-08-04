@@ -8,7 +8,7 @@
 
 ### Social Media
 
-[<img align="left" alt="HiWhatName" width="22px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />][discord]
+[<img align="left" alt="HiWhatName" width="22px" src="https://github.com/HiWhatName/HiWhatName/blob/master/Discord-Logo-Color.svg?raw=true" />][discord]
 [<img align="left" alt="HiWhatName | YouTube" width="22px" src="" />][youtube]
 [<img align="left" alt="HiWhatName | Twitter" width="22px" src="" />][twitter]
 
