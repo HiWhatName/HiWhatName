@@ -20,7 +20,7 @@
 
 <br />
 
-### 🔷 Latest SWN Blog Posts
+### 🔷 Latest SWON Blog Posts
 
 
 
