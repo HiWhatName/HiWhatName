@@ -4,9 +4,9 @@
 
 - Collaborating in team environments ✨
 
-- Comming soon™ 
+- Coming soon™ 
 
-- Comming soon™ 
+- Coming soon™ 
 
 <br />
 
