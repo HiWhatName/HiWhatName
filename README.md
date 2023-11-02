@@ -1,6 +1,8 @@
-<div align=center>
-  <h1> <b>HiWhatName</b> </h1>
-  <hr>
-  <h2><b>GPG: COMING SOON</b></h2>
-  <a href="https://gitlab.com/HiWhatName">GitLab</a> <b>/</b> <a href="https://twitter.com/HiWhyName">Twitter</a>
- </div>
+# Fr*ck GitHub
+
+I only contribute to some FOSS projects using this acc. No actual repo's will be hosted here!
+
+## Links
+[GitLab](https://gitlab.com/HiWhatName/)
+[Mastodon](https://mastodon.social/@HiWhatName)
+
