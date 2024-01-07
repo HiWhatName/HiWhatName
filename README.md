@@ -1,4 +1,4 @@
-# Fck GitHub
+# Learn Git, not GitHub. 
 
 I only contribute to some FOSS projects using this acc. No actual repo's will be hosted here!
 
